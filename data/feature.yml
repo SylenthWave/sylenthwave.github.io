@@ -1,0 +1,24 @@
+---
+enable: true
+title1: Build your own home page
+desc1: Configure your own homepage with a combination of modules and plugins
+image1: images/feature/feature-image1.png
+
+title2: Rich built-in modules
+desc2: "Merge has built-in modules including: Notes, Calendar, Tasks, Focus, Statistics and more. It allows you to easily accomplish all your needs in one app."
+image2: images/feature/feature-image2.png
+
+title3: Multiple theme color schemes
+desc3: With up to seven built-in theme colorways for Merge, you've got more options, whether it's a dark mode or a bright mode.
+image3: images/feature/feature-image3.png
+
+title4: Use Merge in all devices
+desc4: Merge App supports iPhone, iPad, and Mac. With Merge, you can seamlessly switch between all your devices, whether it's notes, tasks, or your schedule.
+image4: images/feature/feature-image4.png
+
+buttonText: Try It Free
+
+checkItem:
+  - text: Next to the hosting account you want to use.
+  - text: Select or enter the domain name you want to use.
+  - text: After you purchase a hosting plan.

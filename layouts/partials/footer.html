@@ -1,0 +1,60 @@
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 col-md-4">
+        <div class="footer-description">
+          <img src="{{ .Site.Params.logo | absURL }}" alt="logo" width="100" height="80" style='object-fit: contain'>
+          <p>
+            {{ .Site.Params.copyright1 }}
+              </br>
+              {{ replace .Site.Params.copyright2   "{year}" now.Year | safeHTML }}
+          </p>
+          <ul class="footer-description-social">
+            <li>
+              <a href="{{ .Site.Params.social.facebook }}"><i class="ti-facebook"></i></a>
+            </li>
+            <li>
+              <a href="{{ .Site.Params.social.twitter }}"><i class="ti-twitter-alt"></i></a>
+            </li>
+            <li>
+              <a href="{{ .Site.Params.social.github }}"><i class="ti-github"></i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-4">
+        <div class="footer-widget">
+          <h4>Sitemap</h4>
+          <div class="footer-widget-list">
+            <ul>
+              {{ $sitemap := .Site.Menus.sitemap }}
+                {{ range $sitemap }}
+                  <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-4">
+        <div class="footer-widget">
+          <h4>Address</h4>
+          {{ $address := .Site.Params.address }}
+          <div class="footer-widget-list">
+            <ul>
+              <li><a href="mailto:{{ $address.email }}"><i class="ti-email"></i>{{ $address.email }}</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+{{ $style := resources.Get "scss/non-critical.scss" | resources.ToCSS | minify }}
+<link href="{{ $style.Permalink }}" rel="stylesheet" />
+{{ $vendor := resources.Get "js/vendor.js" | minify }}
+<script src="{{ $vendor.Permalink }}"></script>
+<!-- {{ $formhandler := resources.Get "js/form-handler.js" | minify }}
+<script src="{{ $formhandler.Permalink }}"></script> -->
+{{ $script := resources.Get "js/script.js" | minify }}
+<script src="{{ $script.Permalink }}"></script>

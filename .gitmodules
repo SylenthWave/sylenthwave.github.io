@@ -1,0 +1,3 @@
+[submodule "themes/merge-apsho"]
+	path = themes/merge-apsho
+	url = git@github.com:SylenthWave/merge-apsho.git

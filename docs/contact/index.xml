@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Let&#39;s talk about everything on Merge App</title>
-    <link>https://sylenthwave.gihub.io/contact/</link>
+    <link>https://sylenthwave.github.io/contact/</link>
     <description>Recent content in Let&#39;s talk about everything on Merge App</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sylenthwave.gihub.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sylenthwave.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

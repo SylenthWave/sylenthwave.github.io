@@ -1,4 +1,4 @@
-baseURL = "https://sylenthwave.gihub.io/"
+baseURL = "https://sylenthwave.github.io/"
 languageCode = "en-us"
 title = "Merge App"
 theme = "merge-apsho"

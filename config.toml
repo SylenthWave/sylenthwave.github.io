@@ -10,17 +10,9 @@ publishDir = "docs"
     url = "#hero"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "#feature"
-    weight = 2
-[[menu.main]]
-    name = "Services"
-    url = "#faq"
-    weight = 3
-[[menu.main]]
     name = "Blog"
-    url = "#blog"
-    weight = 4
+    url = "/blog"
+    weight = 2
 
 # Footer Sitemap
 [[menu.sitemap]]

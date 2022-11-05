@@ -98,13 +98,23 @@
     </item>
     
     <item>
-      <title>Privacy &amp; Policy</title>
+      <title>Privacy Policy</title>
       <link>https://sylenthwave.github.io/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sylenthwave.github.io/privacy/</guid>
       <description>Merge Privacy Policy Welcome to Merge, a freely configurable, modular efficiency tool. You can create your own home page that focuses on what matters most in the moment, according to your needs.
 1. The information we collect We do not use any third-party tools to collect any of your data. In Merge, all the data you create yourself is stored securely in your iCloud account or device storage. In short, you can produce content in Merge without worrying about data security.</description>
+    </item>
+    
+    <item>
+      <title>Terms of Service</title>
+      <link>https://sylenthwave.github.io/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sylenthwave.github.io/terms/</guid>
+      <description>These Terms of Service apply to your access to and use of the Merge application, so please read them carefully. By logging in to the Service, you are deemed to have fully agreed to the terms of this Agreement.
+Acceptance of Terms By accessing or using the Service, you are agreeing to be bound by all of the following terms. Therefore, please read all of them carefully before using the Service.</description>
     </item>
     
   </channel>

@@ -28,8 +28,8 @@ publishDir = "docs"
     url = "/privacy"
     weight = 3
 [[menu.sitemap]]
-    name = "Contact"
-    url = "/contact"
+    name = "License"
+    url = "/license"
     weight = 4
 
 # Footer Address

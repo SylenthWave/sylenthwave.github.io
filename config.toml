@@ -1,4 +1,4 @@
-baseURL = "https://sylenthwave.github.io/"
+baseURL = "https://mergex.app/"
 languageCode = "en-us"
 title = "Merge App"
 theme = "merge-apsho"
@@ -34,7 +34,7 @@ publishDir = "docs"
 
 # Footer Address
 [params.address]
-email = "apsho@example.com"
+email = "sylenthwave@gmail.com"
 
 # Footer Social
 [params.social]
@@ -55,4 +55,4 @@ copyright1 = "All right reserved"
 copyright2 = "Copyright ©  <a href=\"https://staticmania.com/\" target=\"_blank\">Merge App </a> {year}"
 
 #contact
-email = "help@staticmania.com"
+email = "sylenthwave@gmail.com"

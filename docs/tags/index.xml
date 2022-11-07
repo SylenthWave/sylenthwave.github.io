@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Merge App</title>
-    <link>https://sylenthwave.github.io/tags/</link>
+    <link>https://mergex.app/tags/</link>
     <description>Recent content in Tags on Merge App</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sylenthwave.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mergex.app/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

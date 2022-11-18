@@ -2,35 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mergex.app/blog/hugo-and-its-future/</loc>
-    <lastmod>2020-09-07T20:18:07+06:00</lastmod>
-  </url><url>
     <loc>https://mergex.app/</loc>
-    <lastmod>2020-09-07T20:18:07+06:00</lastmod>
-  </url><url>
-    <loc>https://mergex.app/blog/corona-and-future-of-coders/</loc>
-    <lastmod>2020-09-06T20:18:07+06:00</lastmod>
-  </url><url>
-    <loc>https://mergex.app/blog/is-working-from-home-effective/</loc>
-    <lastmod>2020-09-05T20:18:07+06:00</lastmod>
-  </url><url>
-    <loc>https://mergex.app/blog/know-when-to-take-break/</loc>
-    <lastmod>2020-09-04T20:18:07+06:00</lastmod>
-  </url><url>
-    <loc>https://mergex.app/blog/future-of-cloud-computing/</loc>
-    <lastmod>2020-09-03T20:18:07+06:00</lastmod>
-  </url><url>
-    <loc>https://mergex.app/blog/how-solve-coding-problem/</loc>
-    <lastmod>2020-09-03T20:18:07+06:00</lastmod>
-  </url><url>
-    <loc>https://mergex.app/blog/freelancing-and-corona/</loc>
-    <lastmod>2020-09-02T20:18:07+06:00</lastmod>
-  </url><url>
-    <loc>https://mergex.app/blog/announcing-our-2016-roadmap/</loc>
-    <lastmod>2020-09-01T20:18:07+06:00</lastmod>
-  </url><url>
-    <loc>https://mergex.app/blog/announcing-our-2019-roadmap/</loc>
-    <lastmod>2020-09-01T12:59:58+06:00</lastmod>
+    <lastmod>2020-09-01T12:57:56+06:00</lastmod>
   </url><url>
     <loc>https://mergex.app/blog/a-new-year-a-new-website-introducing-apsho-1/</loc>
     <lastmod>2020-09-01T12:57:56+06:00</lastmod>

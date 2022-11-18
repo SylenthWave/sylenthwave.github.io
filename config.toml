@@ -39,7 +39,7 @@ email = "sylenthwave@gmail.com"
 # Footer Social
 [params.social]
 facebook = "https://www.facebook.com/pg/staticmania"
-twitter = "https://twitter.com/static_mania"
+twitter = "https://twitter.com/sylenthwave"
 github = "https://github.com/StaticMania"
 
 [params]
@@ -52,7 +52,7 @@ googleAnalytics = "UA-175025671-2"
 # Footer
 footerTitle = "Get the latest app updates"
 copyright1 = "All right reserved"
-copyright2 = "Copyright ©  <a href=\"https://staticmania.com/\" target=\"_blank\">Merge App </a> {year}"
+copyright2 = "Copyright ©  <a href=\"https://staticmania.com/\" target=\"_blank\">MergeX</a> {year}"
 
 #contact
 email = "sylenthwave@gmail.com"

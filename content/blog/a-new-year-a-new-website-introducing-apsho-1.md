@@ -1,31 +1,43 @@
 ---
-title: "A New Year, A New Website. Introducing Apsho 1.2"
+title: "The creation story of Merge"
 date: 2020-09-01T12:57:56+06:00
 featureImage: images/blog/blog-post-5.jpg
-author: William Rick
+author: MergeX Team
 authorThumb: images/client/client-2.png
 ---
 
-A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.
+Hi, nice to meet you, my name is mengdi, I'm from Beijing, China and I'm the product manager/designer/developer of Merge App. Merge is a product I spent two years creating by myself full time, and it's my biggest dream since I chose to be a developer - to create a self-approved work by myself independently. As you can see, part of my dream has come true. During these two years, I encountered a lot of difficulties and had thoughts of giving up, but I persevered and finally realized my small wish. I would like to thank my parents, without their encouragement and support I could not have persevered to the end. The following is a running recap of the Merge development experience, and if you are interested, you can hear about the origin of Merge and my plans for its future.
 
-Working from home can be one of the greatest perks of doing freelance work. But as appealing as remote work sounds, it comes with several challenges. What if you need something important from the office that you have no access to? What if loneliness takes over and you experience time management problems? What if you lose connection with colleagues? What if you’re overwhelmed by other home-related distractions like family members, pets, and electronics?
+## From arranging to programming
+Growing up, my biggest passion was music. I loved listening to all types of music and singing. I started to get into electronic music when I was in college, and my favorite genre of music was Trance, psychedelic electronic music. Probably because this type of music in Trance is usually pure music with no vocals, I suddenly became very interested in arranging music, so I spent all my spare time from freshman to junior summer listening to music and learning how to make music. I upgraded my equipment and bought a Macbook in the summer of my junior year, and was about to use it to refine my music production skills when I "went astray" and got into iOS development during the summer. I also became interested in programming. I didn't hesitate to choose between arranging music and programming, because I wasn't too confident that I could find a satisfying job by teaching myself how to arrange music. But for programming, I feel a little more hopeful. Music production and software development have one thing in common: they both allow you to create your own unique work, which is why they both appeal to me. Because whether it's the midi notes entered into a piano roll-up in a music host software (DAW) or the code entered into an integrated development environment (IDE), it's a bridge to build creativity.
+After I decided to choose programming, I spent a whole year of my senior year in the school library learning programming and iOS development on my own every day. I designed and developed an alarm clock app on my own during my self-learning iOS development, and through it I successfully got a job after graduation. Unfortunately, I didn't get it on the App Store, which is the most regrettable thing in my career, not releasing the product I created in full at the beginning.
+I am lucky in my work, the team members are all people who love programming and love products. I learned a lot from them, and because we are of similar age, I became good friends with many of my teammates. But work made me forget my original motivation to learn programming and iOS development (to create my own product).
 
-![blog image](/images/blog/single-blog-1.jpg)
+## Turnaround
+Time came to the beginning of 2019. Probably every young person with a dream makes a lot of wish lists at the beginning of the year, and I was no exception, so I repurchased my Apple Personal Developer account at the beginning of 2019 and made a promise that I would make a product of my own within a year. The result was predictable, and by the end of the year not a single line of code had been written.
+At the end of 2019, the company I work for is going to make layoffs because of its financial situation. Unfortunately (and fortunately) our project team was on the list. It was this opportunity that made me decide to use this time to develop my own product. Then the Covid-19 followed, and I took a six-month break to finally start designing the first version of Merge in July 2020.
+In August 2020, I wrote the first lines of code for Merge. Around September, the Notes Demo version was largely completed. The earliest functional module implemented was the Notes and Calendar module, which was the predecessor of the Merge project, a tool that combined notes and a calendar. In November of the same year, the Rainbow Focus module within Merge was designed and developed. As the functional modules were added the product idea slowly became clear. Eventually it became what it is now: a freely configurable, modular efficiency tool.
 
-If you need inspiration, we've compiled some awesome information from the top-performing professionals in the industry. These are answers to commonly asked questions from artists you may never get to meet in person, and we combined them in one freaking sweet book.
+## Difficulties faced by independent development
+For several years of my working life, my role has been that of a programmer. I certainly have some experience of my own on how to write high quality programs. But I'm still a beginner in design, in product, so that's why it took me two years to finish this work. I've taken many, many wrong turns in product design, but I've always thought that these so-called "wrong turns" are actually the way to go. All the problems I encountered are inescapable.
+There's no escaping the loneliness inside, because indie development means solving all problems by yourself, so sometimes there's still a strong feeling of loneliness. Whenever that happens, I listen to podcasts with indie developers who already have their own work. They also introduce their own independent development experience on the show, which can briefly make me feel like we're fighting side by side.
 
-Download Experiment. Fail. Repeat and discover the secrets of the universe! Or, you know, just get encouraged, which ever you most prefer is totally fine.
+## The "wholeness" that is within our reach
+The first piece of advice many people give to developers who want to make an independent product is to avoid perfectionism as much as possible. I couldn't agree more with this advice. Merge has been adapted for Mac, iPad, iPhone and other platforms, and in my mind it's already complete, but there's still a long way to go before it's perfect. That's my goal afterwards, to make it as perfect as possible!
 
-## Working from Home: Healthy Practices to Stay Productive
+## Merge's Next Steps
+Although the product has been made for two whole years, I still want to say that it is still a bit far from what I originally envisioned, so I plan to gradually improve it in the next two years. So, I'll start with the next possible feature points to do. In no particular order.
+* notes module support tables
+* notes two-way link reference content display
+* task module to add Kanban style
+* calendar module support month view style
+* optimize the navigation bar, support multi-tab page
+* new deadline module
+* new mind map module
+* new home page design
+* more beautiful animation effects, has more theme color scheme
 
-- Setting a Healthy Routine
-- Proper Ergonomics
-- Exercise Regularly
-- Find Work-Life Balance When Working from Home
-- Dealing with Family Members and Coworkers
+## Help & Advice
+If you encounter any problems (design, product, translation, bugs, etc.) during the use of Merge, you can contact me and I will try to solve them as soon as possible. If you have other insights about the product itself you can also discuss with me, I sincerely hope I am making a product that can help others, and I will also listen to your feedback carefully. My email: sylenthwave@gmail.com
 
-![blog image](/images/blog/single-blog-3.jpg)
 
-We are creatures of habit – and that is because routine helps us both mentally and physically to prepare for things. One of the benefits of working from home is flexibility. It might be tempting to roll out of bed and onto your couch and starting checking emails or browsing through social media, but you’ll need to establish a schedule when it comes to working remotely.
-
-What’s goes into your schedule is a guide on what you’re supposed to do at a specific time. Get up early in the morning, take a shower, prepare a cup of coffee and take breakfast, then get dressed as if you’re actually reporting to work. You don’t have to wear a suit and a tie, but you’ll need to prepare for the day the same way you do while going to the office. Set regular working hours and include breaks and meal times. In the end, a routine can be extremely powerful at helping you get started every day.

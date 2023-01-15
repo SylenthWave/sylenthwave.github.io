@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Blog on Merge App</title>
+    <title>Our Blog on MergeX App</title>
     <link>https://mergex.app/blog/</link>
-    <description>Recent content in Our Blog on Merge App</description>
+    <description>Recent content in Our Blog on MergeX App</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Aug 2020 20:33:11 +0600</lastBuildDate><atom:link href="https://mergex.app/blog/index.xml" rel="self" type="application/rss+xml" />

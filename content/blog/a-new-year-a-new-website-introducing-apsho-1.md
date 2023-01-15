@@ -2,7 +2,7 @@
 title: "The creation story of Merge"
 date: 2020-09-01T12:57:56+06:00
 featureImage: images/blog/blog-post-5.jpg
-author: MergeX Team
+author: A freely configurable modular tool
 authorThumb: images/client/client-2.png
 ---
 

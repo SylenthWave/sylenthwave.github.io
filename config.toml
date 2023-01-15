@@ -1,6 +1,6 @@
 baseURL = "https://mergex.app/"
 languageCode = "en-us"
-title = "Merge App"
+title = "MergeX App"
 theme = "merge-apsho"
 publishDir = "docs"
 
